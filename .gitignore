@@ -1,0 +1,9 @@
+# Exclude PDF files
+*.pdf
+
+# Exclude steps file
+steps.md
+
+# Optional: exclude temporary files
+*.tmp
+*.log
