@@ -133,5 +133,5 @@ KPI definitions: [`docs/kpi_definitions.md`](docs/kpi_definitions.md)
 - *Personal portfolio project. Not affiliated with the Mercedes-AMG Petronas F1 Team.*
 
 ## Author
-**Akhilesh Pradhan** · Data Analyst / Business Analyst
-LinkedIn: _[add link]_ · Email: _[add email]_
+**Akhilesh Pradhan** · Data Analyst 
+LinkedIn: www.linkedin.com/in/akhilesh-pradhan-ap454 · Email:akhileshpradhan45@gmail.com
